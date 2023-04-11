@@ -1,8 +1,8 @@
 Hi 👋 My name is Egon Saks
 
-🌱 I’m student at the kood/Jõhvi, learning software development and engineering.
+👨‍💻🛠 I’m software development and engineering student at the kood/Jõhvi.
 
-🤔 I’m looking for my first role as a full stack developer.
+🔎 🗺 I’m looking for my first role as a full stack developer.
 
 #### [LinkedIn](http://www.linkedin.com/in/egonsaks/) | [Website](https://www.egonsaks.com)
 
