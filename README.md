@@ -12,9 +12,9 @@ Hi 👋 My name is Egon Saks
 
 <p align="left">
 
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="images/golang.png" width="28" height="28" alt="Go"/></a>
-
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="images/golang.png" width="34" height="34" alt="Go"/></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="images/javascript.png" width="34" height="34" alt="Javascript"/> <a href="https://html.com/html5/" target="_blank" rel="noreferrer"><img src="images/html5.png" width="34" height="32" alt="HTML"/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="images/css3.png" width="40" height="34" alt="CSS"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="images/python.png" width="36" height="34" alt="Python"/></a><a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="images/django.png" width="34" height="34" alt="Django"/></a>
 </p>
+
 
 ---
 <details>
