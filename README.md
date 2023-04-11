@@ -1,10 +1,8 @@
 Hi 👋 My name is Egon Saks  
 
 
-👨‍💻 I'm software development and engineering student at [kood/Jõhvi](https://kood.tech) who is looking to gain some real world experience in software development. I am analytical, data driven and quick learner, love everything around tech. Previously, I have worked for over 10 years on operations in tech startups across various industries in Europe and North America. It has given me a good understanding of the business needs and how companies operate.  
-🔎 I'm looking for my first role as a full stack developer  
-🤝 I'm open to collaborating on interesting projects  
-
+👨‍💻 I'm software development and engineering student at [kood/Jõhvi](https://kood.tech) and looking to gain some real world experience in software development as a full stack developer. I am analytical, data driven and quick learner, love everything around tech. Previously, I have worked for over 10 years on operations in tech startups across various industries in Europe and North America. It has given me a good understanding of the business needs and how companies operate. 
+  
 #### [LinkedIn](http://www.linkedin.com/in/egonsaks/) | [Website](https://www.egonsaks.com)
 
 ---
