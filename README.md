@@ -12,7 +12,7 @@ Hi 👋 My name is Egon Saks
 
 <p align="left">
 
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="" width="28" height="28" alt="Go"/></a>
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="images/golang.png" width="28" height="28" alt="Go"/></a>
 
 </p>
 
