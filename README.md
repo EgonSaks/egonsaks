@@ -18,13 +18,10 @@ Hi 👋 My name is Egon Saks
 
 ---
 <details>
-
 <summary>📈 My GitHub Stats</summary>
 <br>
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=egonsaks&count_private=true&include_all_commits=true&theme=dark&show_icons=true" />  
-
+[![Egon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=egonsaks&count_private=true&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/egonsaks/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egonsaks&layout=compact&&theme=dark&show_icons=true)
-  
 </details>
