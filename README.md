@@ -1,11 +1,16 @@
 Hi 👋 My name is Egon Saks  
 
+I am full-stack software development and engineering student at [kood/Jõhvi](https://kood.tech).
 
-👨‍💻 I'm software development and engineering student at [kood/Jõhvi](https://kood.tech). I am analytical, data driven and quick learner. I love everything around tech. 
+Previously, I have been fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most of the things on the go has made me resilient and changed my life more than anything else.
 
-Previously, I have worked for over 10 years on operations in tech startups across various industries in Europe and North America. This extensive experience has equipped me with a deep understanding of business needs and operational efficiencies. I bring a business-centric perspective to software development. Walking between two worlds makes me a unique asset in bridging the gap between technical and non-technical stakeholders.
+This extensive hands-on experience has equipped me with a strong understanding of business processes and user needs which position me uniquely to develop software solutions that are not only technically sound but also align closely with business objectives and create customer value.
 
-I am resourceful and aim to make an impact by driving business value through code. I enjoy working with small and agile teams to launch and grow innovative products and services. My goal is to contribute to launching and scaling groundbreaking products and services that meet both user needs and business objectives.
+I am naturally curious and proactive. I have good communication skills and never ending hunger to grow and learn. I have strong bias to action and get it done mentality. I am result driven and with "can do, I will figure it out" attitude. I am builder and problem solver by heart and love everything around tech.
+
+I love working with awesome people and create something people love.
+
+Don't hesitate to reach out if you'd like to get in touch.
   
 #### [LinkedIn](http://www.linkedin.com/in/egonsaks/) | [Website](https://www.egonsaks.com)
 
