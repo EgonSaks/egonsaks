@@ -1,6 +1,6 @@
 Hi 👋 My name is Egon Saks  
 
-I am full-stack software development and engineering student at [kood/Jõhvi](https://kood.tech).
+I am full-stack software development and engineering student at [kood/Jõhvi](https://kood.tech). Learning something new every day and building cool stuff!
 
 Previously, I have been fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most of the things on the go has made me resilient and changed my life more than anything else.
 
