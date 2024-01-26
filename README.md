@@ -6,7 +6,7 @@ I love working with Go and Javascript, but I'm happy to use whatever tool is mos
 
 Recently, I've been diving into Node.js, Typescript, React, and Next.js, exploring new projects during my free time. I am also interested in expanding my skill set to include other technologies and frameworks.
 
-Previously, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorns. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go has made me resilient and changed my life more than anything else.
+Previously, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go has made me resilient and changed my life more than anything else.
 
 This extensive hands-on experience has equipped me with a strong understanding of business processes and user needs, positioning me uniquely to develop software solutions that are not only technically sound but also align closely with business objectives and create customer value.
 
