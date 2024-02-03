@@ -8,6 +8,8 @@ Recently, I've been diving into Node.js, Typescript, React, and Next.js, explori
 
 Previously, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go has made me resilient and changed my life more than anything else.
 
+Working in closely with developers and seeing how they make magic happen inspired me to get my hand dirty. I built some python and bash scripts to automate my tasks, it was fascinating to see the impact these scripts had for my workflow and efficiency so I decided to immersed myself fully in the world of software development.
+
 This extensive hands-on experience has equipped me with a strong understanding of business processes and user needs, positioning me uniquely to develop software solutions that are not only technically sound but also align closely with business objectives and create customer value.
 
 I am naturally curious and proactive, with good communication skills and a never-ending hunger to grow and learn. I have a strong bias towards action and a "get it done" mentality. I am result-driven with a "can-do, I will figure it out" attitude. I am a builder and problem solver at heart, and I love everything related to tech.
