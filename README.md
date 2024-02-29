@@ -4,7 +4,7 @@ I am a full-stack software development and engineering student at [kood/Jõhvi](
 
 I love working with Go and Javascript, but I'm happy to use whatever tool is most suited for the job at hand. My two favorite daily activities are learning new things and building cool stuff, either on my own or with a team!
 
-Recently, I've been diving into Node.js, Typescript, React, and Next.js, exploring new projects during my free time. I am also interested in expanding my skill set to include other technologies and frameworks.
+Currently, I am working on Cloud DevOps specialization and looking also into Networking and Cybersecurity while many things are interconnected.
 
 Previously, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go has made me resilient and changed my life more than anything else.
 
