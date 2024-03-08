@@ -2,7 +2,7 @@ Hi 👋 My name is Egon Saks
 
 I am a full-stack software development student at [kood/Jõhvi](https://kood.tech). I build software!
 
-I enjoy working with Go and Javascript, but I am happy to learn new technologies to use the best tool for the job. I love technology, programming, computers, mobile devices and the world of tomorrow.
+I enjoy working with Go, Python and Javascript, but I am happy to learn new technologies to use the best tool for the job. I love technology, programming, computers, mobile devices and the world of tomorrow.
 
 Recently, I worked with Node.js, Typescript, React, and Next.js, explored new projects during my free time. I am interested in expanding my skill set to include other technologies and frameworks.
 
