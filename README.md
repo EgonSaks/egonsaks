@@ -10,7 +10,7 @@ Currently, I am working on Cloud DevOps specialization and looking also into Net
 
 Previously, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go has made me resilient and changed my life more than anything else.
 
-Working in closely with developers and seeing how they make magic happen inspired me to get my hand dirty. I built some python and bash scripts to automate my tasks, it was fascinating to see the impact these scripts had for my workflow and efficiency so I decided to immerse myself fully in the world of software development.
+Working in closely with developers and seeing how they make magic happen inspired me to get my hands dirty. I built some Python and bash scripts to automate my tasks, it was fascinating to see the impact these scripts had for my workflow and efficiency so I decided to immerse myself fully in the world of software development.
 
 This extensive hands-on experience has equipped me with a strong understanding of business processes and user needs, positioning me uniquely to develop software solutions that are not only technically sound but also align closely with business objectives and create customer value.
 
