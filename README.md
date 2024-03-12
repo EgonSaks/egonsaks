@@ -6,7 +6,7 @@ I enjoy working with Go, Python and Javascript, but I am happy to learn new tech
 
 Recently, I worked with Node.js, Typescript, React, and Next.js, explored new projects during my free time. I am interested in expanding my skill set to include other technologies and frameworks.
 
-Currently, I am working on Cloud DevOps specialization and looking also into Networking and Cybersecurity while many things are interconnected.
+Currently, I am learning Java and working on Cloud DevOps specialization and looking also into Networking and Cybersecurity while many things are interconnected.
 
 Previously, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10 years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go has made me resilient and changed my life more than anything else.
 
