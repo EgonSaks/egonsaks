@@ -1,6 +1,5 @@
-<div style="text-align: right;">
-    <img src="https://komarev.com/ghpvc/?username=EgonSaks&color=red&style=flat" alt="Profile Views">
-</div>
+<img src="https://komarev.com/ghpvc/?username=EgonSaks&color=red&style=flat" alt="Profile Views" align="right">
+
 
 
 Hi 👋 My name is Egon Saks  
