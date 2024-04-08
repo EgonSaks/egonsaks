@@ -1,3 +1,8 @@
+<div style="text-align: right;">
+    <img src="https://komarev.com/ghpvc/?username=EgonSaks&color=red&style=flat" alt="Profile Views">
+</div>
+
+
 Hi 👋 My name is Egon Saks  
 
 I am a full-stack software development student at [kood/Jõhvi](https://kood.tech). I build software!
