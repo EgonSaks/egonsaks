@@ -4,7 +4,7 @@
 
 Hi 👋 My name is Egon Saks  
 
-I am a Full Stack Software Engineer skilled in Java, Go, and JavaScript, with a focus on building scalable, high-performance, and secure software systems. My experience includes designing RESTful APIs, working with monoliths and microservices, developing both frontend and backend applications, and working with databases to deliver impactful solutions.
+Full-Stack Software Engineer skilled in Java, Go, JavaScript, Vue and React with a focus on building scalable, high-performance, and secure software systems. My experience includes designing RESTful APIs, working with monoliths and microservices, developing both frontend and backend applications, and working with databases to deliver impactful solutions.
 
 Prior to my engineering career, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10+ years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go.
 
