@@ -1,19 +1,19 @@
 <img src="https://komarev.com/ghpvc/?username=EgonSaks&color=red&style=flat" alt="Profile Views" align="right">
 
-
-
 Hi 👋 My name is Egon Saks  
 
-Full-Stack Software Engineer skilled in Java, Go, JavaScript, Vue and React with a focus on building scalable, high-performance, and secure software systems. My experience includes designing RESTful APIs, working with monoliths and microservices, developing both frontend and backend applications, and working with databases to deliver impactful solutions.
+I am a Full-Stack Software Engineer proficient in Java, Go, JavaScript, Vue, and React. I focus on building scalable, high-performance, and secure software systems.
 
-Prior to my engineering career, I've done a bunch of cool stuff in different domains. I was fortunate to work for over 10+ years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, learning most things on the go.
+Experienced designing APIs, design documents, working with monoliths and microservices, large-scale codebases, developing frontend and backend applications, writing reliable, maintainable, and scalable code by following engineering best practices and development standards to deliver impactful solutions.
+
+Before my engineering career, I've done many cool things in different domains. I was fortunate to work for over 10+ years in operations in tech startups across various industries in Europe and North America, ranging from small startups to unicorn. Discovering the unknown, working on very interesting problems and challenges, and learning most things on the go.
 
 This unique blend of experiences has equipped me with a strong understanding of business processes and user needs, positioning me uniquely to develop software solutions that are not only technically sound but also align closely with business objectives and create customer value.
 
-I am naturally curious and proactive, with good communication skills and a never-ending hunger to grow and learn. I have a strong bias towards action and a "get it done" mentality. I am result-driven with a "can-do, I will figure it out" attitude. I am a builder and problem solver at heart, and I love everything related to tech.
+I am naturally curious and proactive, with good communication skills and a never-ending hunger to grow and learn. I have a strong sense of ownership, a bias towards action, and a "get it done" mentality. I am result-driven with a "can-do, I will figure it out" attitude. I am a builder and problem solver at heart, and I love everything related to tech.
 
-I love working with awesome people, preferably in a small team where I can make an impact quickly.
- 
+Excited by complex problems, lean teams, and building things that matter. I love working with awesome people, preferably in a small team where I can make an impact quickly.
+
 #### [LinkedIn](http://www.linkedin.com/in/egonsaks/) | [Website](https://www.egonsaks.com)
 
 ---
